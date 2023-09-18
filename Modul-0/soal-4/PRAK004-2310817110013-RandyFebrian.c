@@ -8,4 +8,5 @@ int main()
     printf("#\t  2310817110013  \t#\n\n");
     printf("#\t\t\t\t#\n\n");
     printf("#################################\n\n");
+    return 0;
 }
