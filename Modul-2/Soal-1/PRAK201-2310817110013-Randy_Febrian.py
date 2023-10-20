@@ -1,4 +1,3 @@
-# INPUT
 print("INPUT")
 nama = input("Nama                 : ")
 NIM = input("NIM                  : ")
@@ -8,7 +7,7 @@ alamat = input("Alamat               : ")
 hobby = input("Hobby                : ")
 no_hp = input("No. HP               : ")
 print()
-# OUTPUT
+
 print("OUTPUT")
 print("Nama                 :", nama)
 print("NIM                  :", NIM)
